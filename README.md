@@ -1,4 +1,4 @@
-- IsControlPressed(0,x)
+IsControlPressed(0,x)
 local keys={}
 keys[34]="A"
 keys[29]="B"
@@ -52,7 +52,7 @@ keys[162]="8"
 keys[163]="9"
 keys[21]="LShift"
 
-- citizen cod
+citizen cod
 Citizen.CreateThread(function()
         local count=0
         local keys={}
